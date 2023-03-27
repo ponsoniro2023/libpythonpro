@@ -7,4 +7,4 @@ incluir pip
 pip2
 
 teste libpythonpro 8
-vamos que vamos
+vamos que vamos teste 2
