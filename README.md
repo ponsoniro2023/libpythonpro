@@ -3,6 +3,21 @@ modulo para exemplificar construção de projetos Python curso Pytools
 
 link para o curso [Python Pro](https://pythonpro.com.br/)
 
+
+"""console
+py -3 -m venv .venv
+venv\scripts\activate
+pip install -r requirements-dev.txt
+"""
+
+para conferir a qualidade do código:
+
+
+
+"""console 
+flake8
+"""
+
 incluir pip
 pip2
 versão 3 python

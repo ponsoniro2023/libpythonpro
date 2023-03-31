@@ -1,6 +1,7 @@
 import requests
 
-def busca_usuari (usuario):
+
+def busca_avatar (usuario):
     """
     buscar usuario no github por api
     :param usuario: enviar o str do usuario no github
@@ -12,6 +13,4 @@ def busca_usuari (usuario):
 
 
 if __name__ == '__main__':
-    print(busca_usuari('ponsoniro2023'))
-
-
+    print(busca_avatar('ponsoniro2023'))
