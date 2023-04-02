@@ -1,7 +1,7 @@
 import requests
 
 
-def busca_avatar (usuario):
+def busca_avatar(usuario):
     """
     buscar usuario no github por api
     :param usuario: enviar o str do usuario no github

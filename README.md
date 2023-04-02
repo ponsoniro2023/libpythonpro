@@ -3,6 +3,8 @@ modulo para exemplificar construção de projetos Python curso Pytools
 
 link para o curso [Python Pro](https://pythonpro.com.br/)
 
+[![Build Status](https://app.travis-ci.com/ponsoniro2023/libpythonpro.svg?branch=main)](https://app.travis-ci.com/ponsoniro2023/libpythonpro)
+
 
 """console
 py -3 -m venv .venv
