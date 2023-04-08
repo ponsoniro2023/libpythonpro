@@ -13,7 +13,7 @@ pip install -r requirements-dev.txt
 """
 
 para conferir a qualidade do código:
-ffff 02
+ffff 02 venv
 
 
 """console 
