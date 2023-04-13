@@ -14,6 +14,7 @@ pip install -r requirements-dev.txt
 
 para conferir a qualidade do código:
 ffff 02 venv 2
+cov
 
 
 """console 
